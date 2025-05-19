@@ -89,5 +89,3 @@ MIT License
 * [React](https://reactjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * Glassmorphism inspiration from [ui.glass](https://ui.glass/)
-
-```
